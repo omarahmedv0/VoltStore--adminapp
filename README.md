@@ -21,6 +21,7 @@ VOLT Store is an e-commerce application for men's and women's clothing.
 * Supports Control the delivery price
 
 #### Features:
+* authentication Feature
 * Product control
 * Categories control
 * orders control
